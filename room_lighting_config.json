@@ -1,0 +1,13 @@
+{
+  "map_width": 1000.0,
+  "map_height": 500.0,
+  "map_size": 1000.0,
+  "agent_speed": 10,
+  "zone_size": 100,
+  "max_steps": 1000,
+  "num_light_zones": 8,
+  "n_states": 105,
+  "n_actions": 256,
+  "grid_x_size": 15,
+  "grid_y_size": 7
+}

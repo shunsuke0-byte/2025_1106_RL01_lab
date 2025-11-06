@@ -1,0 +1,7 @@
+{
+  "map_size": 500,
+  "agent_speed": 10,
+  "zone_size": 100,
+  "max_steps": 200,
+  "num_light_zones": 5
+}
